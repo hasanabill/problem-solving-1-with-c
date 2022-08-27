@@ -13,10 +13,19 @@ int main()
     float distanceInInch;
     float distanceInCentimeters;
 
-    printf("Enter the distance: ");
+    printf("Enter the distance between Mirpur and Asulia = ");
     scanf("%f", &distanceInKm);
 
-    printf("this distance is %.2f", distanceInKm);
+    distanceInMeter = distanceInKm * 1000;
+    distanceInFeet = distanceInKm * 3280.84;
+    distanceInInch = distanceInKm * 39370.1;
+    distanceInCentimeters = distanceInKm * 100000;
+
+    printf("The distance is %.2f Kilometers\n", distanceInKm);
+    printf("The distance is %.2f Meter\n", distanceInMeter);
+    printf("The distance is %.2f Feet\n", distanceInFeet);
+    printf("The distance is %.2f Inches\n", distanceInInch);
+    printf("The distance is %.2f Centimeters\n", distanceInCentimeters);
 
     return 0;
 }
