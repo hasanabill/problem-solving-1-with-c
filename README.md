@@ -1,12 +1,12 @@
 # problem-solving-1-with-c
 
-1.Niloys basic salary is input through the keyboard. His dearness allowance is 40% of his basic salary and house rent is 20% of his basic salary. Write a program to calculate his gross salary.
+1. Niloys basic salary is input through the keyboard. His dearness allowance is 40% of his basic salary and house rent is 20% of his basic salary. Write a program to calculate his gross salary.
 
 2. The distance between Mirpur and Ashulia is input through the keyboard. Write a program to convert and print this distance in meter, feet, inches and centimeters.
 
-3.If the marks obtained by a student in five different subjects are input through the keyboard, find out the aggregate marks and percentage marks obtained by the student. Assume that the maximum marks that can be obtained by a student in each subject is 100.
+3. If the marks obtained by a student in five different subjects are input through the keyboard, find out the aggregate marks and percentage marks obtained by the student. Assume that the maximum marks that can be obtained by a student in each subject is 100.
 
-4.Temperature of a city in Fahrenheit degrees is input through the keyboard. Write a program to convert this temperature into Centigrade degrees. 
+4. Temperature of a city in Fahrenheit degrees is input through the keyboard. Write a program to convert this temperature into Centigrade degrees. 
 
 5. The length & breadth of a rectangle and radius of a circle are input through the keyboard. Write a program to calculate the area & perimeter of the rectangle, and the area & circumference of the circle.
 
