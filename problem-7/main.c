@@ -10,7 +10,7 @@ int main(void)
 
     printf("Enter a five digit number: ");
     scanf("%1d%1d%1d%1d%1d", &a, &b, &c, &d, &e);
-    printf("%d\n", a + b + c + d + e);
+    printf("The sum is %d\n", a + b + c + d + e);
 
     return 0;
 }

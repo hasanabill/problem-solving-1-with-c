@@ -6,4 +6,6 @@ A cashier has currency notes of denominations 10, 50 and 100. If the amount to b
 
 int main()
 {
+
+    return 0;
 }
