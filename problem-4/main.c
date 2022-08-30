@@ -7,8 +7,7 @@ Temperature of a city in Fahrenheit degrees is input through the keyboard. Write
 int main()
 {
 
-    float tempInFahrenheit;
-    float tempInCentigrade;
+    float tempInFahrenheit, tempInCentigrade;
 
     printf("Enter the temperature in Fahrenheit: ");
     scanf("%f", &tempInFahrenheit);

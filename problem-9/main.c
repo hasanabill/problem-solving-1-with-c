@@ -12,7 +12,6 @@ int main(void)
     scanf("%1d%1d%1d%1d", &a, &b, &c, &d);
 
     sum = a + d;
-
     printf("The sum of first and last digit on that number is %d", sum);
 
     return 0;

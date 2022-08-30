@@ -6,7 +6,6 @@ In a town, the percentage of men is 52. The percentage of total literacy is 48. 
 
 int main()
 {
-
     int totalPopulation = 80000;
 
     int totalMen = 80000 * .52;
