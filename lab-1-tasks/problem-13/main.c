@@ -12,7 +12,6 @@ int main()
     scanf("%d", &num);
 
     newNum = num + 11111;
-
     printf("The number after increasing each of its digit by 1 is %d", newNum);
 
     return 0;

@@ -6,9 +6,7 @@ Two numbers are input through the keyboard into two locations C and D. Write a p
 int main()
 {
 
-    int c;
-    int d;
-    int x;
+    int c, d, x;
 
     printf("Enter the value of C: ");
     scanf("%d", &c);

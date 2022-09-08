@@ -15,7 +15,6 @@ int main()
     scanf("%f", &totalProfit);
 
     totalCost = totalSellingPrice - totalProfit;
-
     costPerItem = totalCost / 15;
 
     printf("The cost of per item is %.2f", costPerItem);

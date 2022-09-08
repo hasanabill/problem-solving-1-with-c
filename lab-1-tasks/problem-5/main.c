@@ -8,13 +8,7 @@ int main()
 {
     float pi = 3.1416;
 
-    float rectLength;
-    float rectBreadth;
-    float circleRadius;
-    float rectArea;
-    float rectParameter;
-    float circleArea;
-    float circleCircumference;
+    float rectLength, rectBreadth, circleRadius, rectArea, rectParameter, circleArea, circleCircumference;
 
     printf("Enter the length of rectangle: ");
     scanf("%f", &rectLength);

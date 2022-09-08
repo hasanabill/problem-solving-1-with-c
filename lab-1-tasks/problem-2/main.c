@@ -7,11 +7,7 @@ convert and print this distance in meter, feet, inches and centimeters.
 
 int main()
 {
-    float distanceInKm;
-    float distanceInMeter;
-    float distanceInFeet;
-    float distanceInInch;
-    float distanceInCentimeters;
+    float distanceInKm, distanceInMeter, distanceInFeet, distanceInInch, distanceInCentimeters;
 
     printf("Enter the distance between Mirpur and Asulia = ");
     scanf("%f", &distanceInKm);

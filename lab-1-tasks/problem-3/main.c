@@ -7,13 +7,7 @@ If the marks obtained by a student in five different subjects are input through 
 int main()
 {
 
-    float stracturedProgramming;
-    float industry4;
-    float webDevEssential;
-    float english;
-    float artOfLiving;
-    float aggregatedMark;
-    float percentageMark;
+    float stracturedProgramming, industry4, webDevEssential, english, artOfLiving, aggregatedMark, percentageMark;
 
     printf("Enter the mark of SP: ");
     scanf("%f", &stracturedProgramming);

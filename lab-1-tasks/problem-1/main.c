@@ -7,11 +7,7 @@ salary and house rent is 20% of his basic salary. Write a program to calculate h
 
 int main()
 {
-
-    float basicSalary;
-    float dAllowance;
-    float houseRent;
-    float grossSalary;
+    float basicSalary, dAllowance, houseRent, grossSalary;
 
     printf("Enter Basic Salary: ");
     scanf("%f", &basicSalary);
