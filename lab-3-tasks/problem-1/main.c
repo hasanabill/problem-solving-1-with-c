@@ -14,15 +14,15 @@ int main()
 
     if (num > 0)
     {
-        printf("The number %f is positive", num);
+        printf("The number %.2f is positive", num);
     }
     else if (num < 0)
     {
-        printf("The number %f is negative", num);
+        printf("The number %.2f is negative", num);
     }
     else
     {
-        printf("The number %f is neutral", num);
+        printf("The number %.2f is neutral", num);
     }
 
     return 0;
