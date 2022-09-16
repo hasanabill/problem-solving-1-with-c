@@ -1,6 +1,5 @@
 /*
-Write a C program that can take input a number and then decide whether the number is
-positive, negative or neutral.
+Write a c program to display a menu in a restaurant and input user choice.
 */
 
 #include <stdio.h>

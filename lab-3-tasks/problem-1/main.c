@@ -7,32 +7,22 @@ positive, negative or neutral.
 
 int main()
 {
-    int choice;
+    float num;
 
-    printf("1. Coke\n2. Biriany\n3. Kacchi\n4. Burger\n");
+    printf("Enter a number: ");
+    scanf("%f", &num);
 
-    printf("Enter the number which you want to order: ");
-    scanf("%d", &choice);
-
-    if (choice == 1)
+    if (num > 0)
     {
-        printf("You have choose Coke");
+        printf("The number %f is positive", num);
     }
-    else if (choice == 2)
+    else if (num < 0)
     {
-        printf("You have choosen Biriany");
-    }
-    else if (choice == 3)
-    {
-        printf("you have choosen Kacchi");
-    }
-    else if (choice == 4)
-    {
-        printf("you have choosen Burger");
+        printf("The number %f is negative", num);
     }
     else
     {
-        printf("Invalid choice");
+        printf("The number %f is neutral", num);
     }
 
     return 0;
